@@ -1,0 +1,12 @@
+23 27 29 18 21 15 22
+George Alvarez 15 19 22 17 20 15 18 
+Pamela Pritchard 21 20 20 16 19 14.5 21 
+Angela Bonds 20 25 28 17 21 x 21 
+Michael McGuire 21 25 24.5 17.25 11 15 22 
+Fernando Munoz 22 25 25 17.5 20 13.5 20 
+Jerry Gee 17 21 24 16.5 20 x 21.5 
+Karen Connors 17.5 x 21 17 19.5 13 21 
+Jasper Jenkins 21 26 18 17 20 15 22 
+Elizabeth Simmons 23 24 25 x 20 15 22
+Zoe Mack 23 27 28 14 19.5 14.25 21 
+Robert Dixon 22 25 23 17 18 12 20
